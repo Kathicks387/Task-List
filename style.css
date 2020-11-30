@@ -1,0 +1,16 @@
+.card-title {
+  text-align: center;
+  color: rgb(109, 99, 99);
+ }
+
+span {
+  background-color: burlywood;
+}
+
+.card {
+  background-color: rgb(133, 113, 113);
+}
+
+li.collection-item {
+  background: rgb(192, 25, 25);
+}
